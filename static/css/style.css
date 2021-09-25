@@ -1,23 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>mSmar-TecH</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
-
-  <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Roboto:100,300,400,500,700|Philosopher:400,400i,700,700i" rel="stylesheet">
-
-  <link href="static/css/style.css" rel="stylesheet">
-
-  <!-- <style>
-    @charset "UTF-8";
+@charset "UTF-8";
 /*
   Theme Name: eStartup
   Theme URL: https://bootstrapmade.com/estartup-bootstrap-landing-page-template/
@@ -1381,30 +1362,3 @@ body.mobile-nav-active #mobile-nav-toggle i {
   letter-spacing: 0;
   color: #71c55d;
 }
-
-  </style> -->
-
-
-</head>
-
-<body>
-
-  <section id="hero" class="wow fadeIn">
-    <div class="hero-container">
-      <h1>Welcome to mSmar-TecH</h1>
-      
-      <img style='width: 768px ;' src="static/img/hero-img.png" alt="Hero Imgs">
-      <h2>Thank you for your visit...</h2>
-      <h2>Now we are on the  processing of the site...</h2>
-      
-      <div class="btns">
-        <a href="https://www.facebook.com/bmsmar2"><i class="fa fa-apple fa-3x"></i> FaseBook </a>
-        <a href="https://twitter.com/Bassam_msmar"><i class="fa fa-play fa-3x"></i>Twitter</a>
-        <a href="https://www.instagram.com/msmartech/"><i class="fa fa-windows fa-3x"></i> Instgram </a>
-      </div>
-    </div>
-  </section>
-
-
-</body>
-</html>
